@@ -1,6 +1,5 @@
 <H1 align="center"> Hi there, This is my github profile </H1>
----------------------------------------
-I'm Rapeepan Masatitsup, I'm interested in front-end web development and I would like to improve my identity and skill to become better and better.
+### I'm Rapeepan Masatitsup, I'm interested in front-end web development and I would like to improve my identity and skill to become better and better.
 
 ### Here are some ideas to get you started:
 - 😄 I'm a junior of Computer Engineering at KMUTT of Thailand
