@@ -1,7 +1,7 @@
 <H1 align="center"> Hi there, This is my github profile </H1>
-<br>
+</br>
 I'm Rapeepan Masatitsup, I'm interested in front-end web development and I would like to improve my identity and skill to become better and better.
-<br>
+</br>
 - 💻 I'm a junior of Computer Engineering at KMUTT of Thailand.
 - 🔭 My current skills HTML, CSS, vuetify, robot framwork, figma(Design), R 
 - ⚡ Skills that I would like to learn more: react, vue, laravel ect.
