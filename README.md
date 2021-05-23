@@ -5,7 +5,7 @@
 <br/>
 
 - 💻 I'm a junior of Computer Engineering at KMUTT of Thailand.
-- 🔭 My current skills HTML, CSS, vuetify, robot framwork, figma(Design), R 
+- 🔭 My current skills HTML, CSS, vuetify, R, SQL, robot framwork, figma(Design)
 - ⚡ Skills that I would like to learn more: react, vue, laravel ect.
 - 😄 Fun fact: I like to read novels, enjoy music and do a little exercise. If I have a long vacation, I like to go to the beach.
 
