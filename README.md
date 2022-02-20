@@ -18,5 +18,12 @@
 #### Github Stats
 ![Rapeepan's github stats](https://github-readme-stats.vercel.app/api?username=eimingming&count_private=true&theme=tokyonight&hide=contribs,prs)
 
+<p>
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eimingming&show_icons=true&hide_border=true" />
+
+
 #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=eimingming.eimingming)
+
+
